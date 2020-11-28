@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\TOMMY\source\repos\BST\BST\main.cpp(96,25): warning C4018: '<=': signed/unsigned 不相符
+C:\Users\TOMMY\source\repos\BST\BST\main.cpp(221,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\TOMMY\source\repos\BST\BST\main.cpp(228,24): warning C4018: '<': signed/unsigned 不相符
+  BST.vcxproj -> C:\Users\TOMMY\source\repos\BST\Debug\BST.exe
